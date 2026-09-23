@@ -1,0 +1,6 @@
+Tournament rules:
+1. Players must report 30 minutes before matches.
+2. Respect officials and opponents.
+3. Follow college sports safety rules.
+
+SportsClubManager internal build verified.
