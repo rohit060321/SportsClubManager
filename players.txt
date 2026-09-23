@@ -1,0 +1,4 @@
+Rahul Sharma, Cricket, Captain
+Amit Patel, Football, Defender
+
+Note: Both players are active this semester.
